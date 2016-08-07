@@ -1,0 +1,82 @@
+2009-11-10 22:01:44 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  error de sintaxis en o cerca de «list» at character 1 in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-10 22:01:44 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  error de sintaxis en o cerca de «list» at character 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-11-10 22:08:18 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  el argumento de WHERE debe ser de tipo boolean, no tipo character varying at character 302 in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-10 22:08:18 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  el argumento de WHERE debe ser de tipo boolean, no tipo character varying at character 302</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-11-11 04:51:17 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  la referencia a la columna «orden» es ambigua at character 1143 in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-11 04:51:17 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  la referencia a la columna «orden» es ambigua at character 1143</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-11-11 04:51:17 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\processes\view.ctp, line 82]
+2009-11-11 22:18:57 Warning: Warning (2): pg_connect() [<a href='http://php.net/function.pg-connect'>function.pg-connect</a>]: Unable to connect to PostgreSQL server: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 110]
+2009-11-11 22:18:57 Warning: Warning (2): pg_query(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-11 22:18:57 Warning: Warning (2): pg_last_error(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 307]
+2009-11-12 17:00:36 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  no existe la columna «orden» at character 137 in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-12 17:00:36 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  no existe la columna «orden» at character 137</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-11-12 17:25:32 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  la sintaxis de entrada no es válida para integer: «O» at character 424 in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-12 17:25:32 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  la sintaxis de entrada no es válida para integer: «O» at character 424</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-11-12 17:25:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\documents\view.ctp, line 116]
+2009-11-12 17:25:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\documents\view.ctp, line 120]
+2009-11-12 17:27:53 Warning: Warning (2): session_regenerate_id() [<a href='http://php.net/function.session-regenerate-id'>function.session-regenerate-id</a>]: Session object destruction failed in [CORE\cake\libs\session.php, line 600]
+2009-11-12 22:36:12 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\views\documents\index.ctp, line 38]
+2009-11-12 22:36:12 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\views\documents\index.ctp, line 42]
+2009-11-12 22:36:12 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\views\documents\index.ctp, line 44]
+2009-11-12 22:36:12 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\views\documents\index.ctp, line 47]
+2009-11-12 22:36:12 Warning: Warning (2): array_push() [<a href='http://php.net/function.array-push'>function.array-push</a>]: First argument should be an array in [APP\views\documents\index.ctp, line 51]
+2009-11-15 20:59:22 Warning: Warning (2): pg_connect() [<a href='http://php.net/function.pg-connect'>function.pg-connect</a>]: Unable to connect to PostgreSQL server: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 110]
+2009-11-15 20:59:23 Warning: Warning (2): pg_query(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-15 20:59:23 Warning: Warning (2): pg_last_error(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 307]
+2009-11-15 21:14:31 Warning: Warning (2): pg_connect() [<a href='http://php.net/function.pg-connect'>function.pg-connect</a>]: Unable to connect to PostgreSQL server: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 110]
+2009-11-15 21:14:31 Warning: Warning (2): pg_query(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-15 21:14:31 Warning: Warning (2): pg_last_error(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 307]
+2009-11-22 21:27:45 Warning: Warning (2): pg_connect() [<a href='http://php.net/function.pg-connect'>function.pg-connect</a>]: Unable to connect to PostgreSQL server: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 110]
+2009-11-22 21:27:45 Warning: Warning (2): pg_query(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-11-22 21:27:45 Warning: Warning (2): pg_last_error(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 307]
+2009-12-08 06:24:01 Warning: Warning (2): pg_connect() [<a href='http://php.net/function.pg-connect'>function.pg-connect</a>]: Unable to connect to PostgreSQL server: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host &quot;localhost&quot; and accepting
+	TCP/IP connections on port 5432? in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 110]
+2009-12-08 06:24:01 Warning: Warning (2): pg_query(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-12-08 06:24:01 Warning: Warning (2): pg_last_error(): supplied argument is not a valid PostgreSQL link resource in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 307]
+2009-12-10 00:29:51 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  falta una entrada para la tabla «Inputs» en la cláusula FROM
+LINE 1: ...d&quot; = &quot;ProcessGroup&quot;.&quot;id&quot;)  WHERE 1 = 1   ORDER BY &quot;Inputs&quot;.&quot;...
+                                                             ^ in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-12-10 00:29:51 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  falta una entrada para la tabla «Inputs» en la cláusula FROM
+LINE 1: ...d" = "ProcessGroup"."id")  WHERE 1 = 1   ORDER BY "Inputs"."...
+                                                             ^</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-12-10 00:29:52 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\processes\view.ctp, line 106]
+2009-12-10 00:30:24 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  falta una entrada para la tabla «Input» en la cláusula FROM
+LINE 1: ...d&quot; = &quot;ProcessGroup&quot;.&quot;id&quot;)  WHERE 1 = 1   ORDER BY &quot;Input&quot;.&quot;i...
+                                                             ^ in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-12-10 00:30:24 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  falta una entrada para la tabla «Input» en la cláusula FROM
+LINE 1: ...d" = "ProcessGroup"."id")  WHERE 1 = 1   ORDER BY "Input"."i...
+                                                             ^</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-12-10 00:30:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\processes\view.ctp, line 106]
+2009-12-10 01:38:46 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  update o delete en «processes» viola la llave foránea «fk_inputs_processes» en la tabla «inputs»
+DETAIL:  La llave (id)=(4) todavía es referida desde la tabla «inputs». in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-12-10 01:38:46 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  update o delete en «processes» viola la llave foránea «fk_inputs_processes» en la tabla «inputs»
+DETAIL:  La llave (id)=(4) todavía es referida desde la tabla «inputs».</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-12-10 02:41:21 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 26]
+2009-12-10 02:41:46 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 26]
+2009-12-10 02:42:04 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 26]
+2009-12-10 02:54:29 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 36]
+2009-12-10 02:55:37 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 36]
+2009-12-10 02:57:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 37]
+2009-12-10 02:57:29 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 38]
+2009-12-10 02:57:54 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\tools_controller.php, line 38]
+2009-12-10 03:06:35 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at F:\Ded\public_html\pmbok4\cake\basics.php:307) in [CORE\cake\libs\controller\controller.php, line 644]
+2009-12-10 07:45:24 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  la sintaxis de entrada no es válida para integer: «ap_pmicodeofethics_SPA-Final.pdf»
+LINE 1: ...d&quot; = &quot;ProcessGroup&quot;.&quot;id&quot;)  WHERE &quot;Process&quot;.&quot;id&quot; = 'ap_pmicod...
+                                                             ^ in [CORE\cake\libs\model\datasources\dbo\dbo_postgres.php, line 148]
+2009-12-10 07:45:24 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> ERROR:  la sintaxis de entrada no es válida para integer: «ap_pmicodeofethics_SPA-Final.pdf»
+LINE 1: ...d" = "ProcessGroup"."id")  WHERE "Process"."id" = 'ap_pmicod...
+                                                             ^</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 525]
+2009-12-10 07:45:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\processes\view.ctp, line 266]
+2009-12-10 07:45:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\processes\view.ctp, line 270]
+2009-12-10 07:45:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\processes\view.ctp, line 298]
+2009-12-10 09:50:56 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\tools\view.ctp, line 113]
+2009-12-10 09:50:56 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\views\tools\view.ctp, line 117]
